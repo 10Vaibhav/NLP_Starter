@@ -55,7 +55,7 @@ jupyter notebook
 | `ipywidgets` | 8.1.5 | Interactive Jupyter widgets |
 
 
-## 🛠️ Environment Management
+## Environment Management
 
 ### Activating the Environment
 ```bash
